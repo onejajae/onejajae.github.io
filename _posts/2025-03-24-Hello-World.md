@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2025-03-24
+date: 1970-01-01
 categories: [블로그]
 tags: [blog]     # TAG names should always be lowercase
 ---
