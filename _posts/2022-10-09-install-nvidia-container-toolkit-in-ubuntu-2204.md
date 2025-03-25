@@ -37,4 +37,4 @@ $ sudo apt-get update && sudo apt-get install -y nvidia-container-toolkit
 
 ## References
 1. [INSTALLING DOCKER AND THE DOCKER UTILITY ENGINE FOR NVIDIA GPUS - NVIDIA](https://docs.nvidia.com/ai-enterprise/deployment-guide/dg-docker.html#installing-docker-and-the-docker-utility-engine-for-nvidia-gpus)
-1. [Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead - Stack Overflow](https://stackoverflow.com/questions/68992799/)
+2. [Warning: apt-key is deprecated. Manage keyring files in trusted.gpg.d instead - Stack Overflow](https://stackoverflow.com/questions/68992799/)
